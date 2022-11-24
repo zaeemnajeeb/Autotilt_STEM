@@ -1,0 +1,3 @@
+Control size of segment by changing the value of n
+
+n = 7 means the segment length is 2**7 = 128. Assumes square segments.
